@@ -1,4 +1,5 @@
-wordpress/wp-config.php
-wordpress/wp-config.back.php
-credentials.md
-wordpress/config.local.php
+wp-config.php
+wp-config.back.php
+configs/credentials.md
+configs/config.local.php
+configs

@@ -1,5 +1,0 @@
----
-  deployment:
-   tasks:
-   - export DEPLOYPATH=/home/user/public_html/portfolio-wordpress
-   - /bin/cp -R wordpress $DEPLOYPATH
